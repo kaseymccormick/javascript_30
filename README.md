@@ -2,7 +2,6 @@
 
 Following tutorials by [Wes Bos to create 30 things in 30 days with JS not using boiler plates or libraries.](https://javascript30.com/) to improve my vanilla js.
 
-I'm doing these exersizes as time allows, meaning sometimes at work and sometimes at home. When I can no longer work on the project at work due to other dependancies I work on these exercises because javascript will rule the world. :) Also in practicing better comitting because work uses different standards.
 
 
 - [x] JavaScript Drum Kit
@@ -28,7 +27,7 @@ I'm doing these exersizes as time allows, meaning sometimes at work and sometime
 - [ ] Geolocation
 - [ ] Follow Along Link Highlighter
 - [ ] Speech Synthesis
-- [ ] Sticky Nav
+- [x] Sticky Nav
 - [ ] Event Capture, Propagation, Bubbling, and Once
 - [ ] Stripe Follow Along Nav
 - [ ] Click and Drag
