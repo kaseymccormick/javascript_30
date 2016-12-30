@@ -11,7 +11,7 @@ Following tutorials by [Wes Bos to create 30 things in 30 days with JS not using
 - [x] Flex Panel Gallery
 - [x] Type Ahead
 - [ ] Array Cardio, Day 2
-- [ ] Fun with HTML5 Canvas
+- [x] Fun with HTML5 Canvas
 - [x] Dev Tools Domination
 - [ ] Hold Shift and Check Checkboxes
 - [ ] Custom Video Player

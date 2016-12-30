@@ -20,10 +20,11 @@
 //  starting point for the line
   let lastX = 0;
   let lastY = 0;
-
+  let hue = 0;
   function draw(e){
     if(!isDrawing) return; //stop function from running win not moused down
     console.log(e);
+    ctz.strokeStyle = `hsl(${hue})`
     ctx.beginPath();
     //start from
     ctx.moveTo(lastX, lastY);
