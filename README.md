@@ -1,19 +1,19 @@
 #Javascript 30
 
-Following tutorials by [Wes Bos to create 30 things in 30 days with JS not using boiler plates or libraries.](https://javascript30.com/)  To improve my vanilla js.
+Following tutorials by [Wes Bos to create 30 things in 30 days with JS not using boiler plates or libraries.](https://javascript30.com/) to improve my vanilla js.
 
 I'm doing these exersizes as time allows, meaning sometimes at work and sometimes at home. When I can no longer work on the project at work due to other dependancies I work on these exercises because javascript will rule the world. :) Also in practicing better comitting because work uses different standards.
 
 
-- [ ] JavaScript Drum Kit
-- [ ] JS + CSS Clock
-- [ ] CSS Variables
-- [ ] Array Cardio, Day 1
-- [ ] Flex Panel Gallery
+- [x] JavaScript Drum Kit
+- [x] JS + CSS Clock
+- [x] CSS Variables
+- [x] Array Cardio, Day 1
+- [x] Flex Panel Gallery
 - [ ] Type Ahead
 - [ ] Array Cardio, Day 2
 - [ ] Fun with HTML5 Canvas
-- [ ] Dev Tools Domination
+- [x] Dev Tools Domination
 - [ ] Hold Shift and Check Checkboxes
 - [ ] Custom Video Player
 - [ ] Key Sequence Detection
@@ -33,5 +33,5 @@ I'm doing these exersizes as time allows, meaning sometimes at work and sometime
 - [ ] Stripe Follow Along Nav
 - [ ] Click and Drag
 - [ ] Video Speed Controller
-- [ ] Countdown Ti- [ ]
+- [ ] Countdown Timer
 - [ ] Whack A Mole
