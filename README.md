@@ -10,7 +10,7 @@ I'm doing these exersizes as time allows, meaning sometimes at work and sometime
 - [x] CSS Variables
 - [x] Array Cardio, Day 1
 - [x] Flex Panel Gallery
-- [ ] Type Ahead
+- [x] Type Ahead
 - [ ] Array Cardio, Day 2
 - [ ] Fun with HTML5 Canvas
 - [x] Dev Tools Domination
