@@ -30,6 +30,36 @@
   const itemsList = document.querySelector('.plates');
   const items = [];
 
+  function addItem(e) {
+    e.preventDefault();
+//    this is the actual form tag, looking inside for a name attribute of item. This narrows down search if multiple forms on a page
+    const text = (this.querySelector(`[name=item]`)).value;
+
+    const item = {
+      text,
+      done: false
+    };
+    items.push(item);
+    populateList(items, itemsList);
+    this.reset();
+  }
+  // resilant to use populate list function and pass a different array and html element to affect
+    function populateList(plates = [], platesList){
+      platesList.innerHTML = plates.map((plate, i ) => {
+        return `
+          <li>
+            <label> for="">&{plate.text}</label>
+</li>
+
+        `;
+      }).join('');
+  }
+
+
+
+//  submit covers bases rather then just click button
+  addItems.addEventListener('submit', addItem );
+
 </script>
 
 
