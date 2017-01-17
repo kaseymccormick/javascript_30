@@ -15,10 +15,10 @@ Following tutorials by [Wes Bos to create 30 things in 30 days with JS not using
 - [x] Dev Tools Domination
 - [ ] Hold Shift and Check Checkboxes
 - [ ] Custom Video Player
-- [ ] Key Sequence Detection
+- [x] Key Sequence Detection
 - [ ] Slide in on Scroll
 - [ ] JavaScript References vs. Copying
-- [ ] LocalStorage
+- [x] LocalStorage
 - [ ] Mouse Move Shadow
 - [ ] Sort Without Articles
 - [ ] Adding Up Times with Reduce
